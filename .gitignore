@@ -5,3 +5,7 @@ regs_api.csv
 visits_1k.csv
 visits_api.csv
 charts_project.html
+.venv/
+.venv-1/
+__pycache__/
+*.ipynb_checkpoints/
